@@ -24,6 +24,9 @@ The model uses **TF-IDF** for text feature extraction and compares **Logistic Re
 
 ---
 
+# Install dependencies
+pip install -r requirements.txt
+
 ## 🚀 How to Run
 
 ### 1️⃣ Clone this repository
